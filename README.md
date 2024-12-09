@@ -20,8 +20,21 @@ Leave As Is: In some cases, missing data can be left untouched if it’s assumed
 ## 3. Evaluate the Impact
 After handling missing data, it is important to evaluate how your methods influence the analysis. Ensure that the chosen approach does not distort the dataset or lead to biased conclusions.
 
+## Use Cases
+### Healthcare: 
+Handling missing patient records for accurate diagnosis and treatment plans. 
+### Finance: 
+Filling in missing financial data for risk assessment and forecasting. 
+### Marketing: 
+Completing customer profiles for targeted marketing strategies.
+
+By carefully selecting and applying the appropriate method for handling missing data, you can ensure the robustness and reliability of your analysis and models. 
+
 ## Conclusion
 Properly handling missing data is crucial for reliable and accurate analysis. Choosing the right strategy depends on the nature of the data and the analytical goals.
+
+## Acknowledment
+https://github.com/Victor-Ikechukwu Thank you for your invaluable insights, feedback, and continuous support throughout the development of this project
 
 
 
